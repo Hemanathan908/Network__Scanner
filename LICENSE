@@ -1,0 +1,31 @@
+A network scanner is a tool or software that scans a computer network to gather information about the devices and services connected to it. It's commonly used for:
+
+1. Discovering Devices – Identifies which hosts (computers, phones, IoT devices, etc.) are on the network.
+
+
+2. Port Scanning – Checks which ports are open on a device to see what services are running (like HTTP on port 80, SSH on port 22).
+
+
+3. Security Auditing – Detects vulnerabilities, open ports, or unprotected devices.
+
+
+4. Network Inventory – Lists all IP addresses, MAC addresses, device names, etc., for inventory or documentation.
+
+
+5. Troubleshooting – Helps in diagnosing network issues.
+
+
+
+Examples of Network Scanners:
+
+Nmap (powerful and widely used)
+
+Angry IP Scanner (simple and cross-platform)
+
+Advanced IP Scanner (Windows)
+
+Netdiscover (for ARP scanning on local networks)
+
+
+Want to scan your local network using Termux or another tool?
+
